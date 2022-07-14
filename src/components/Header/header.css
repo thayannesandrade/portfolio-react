@@ -1,0 +1,12 @@
+.header_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    background-color: #da957b;
+    color: white;
+}
+
+.header_title > h1 {
+    font-size: 45px;
+}
