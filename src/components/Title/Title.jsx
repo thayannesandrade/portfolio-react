@@ -2,7 +2,7 @@
 function Title(props) {
 
     return (
-     <h2>{props.title}</h2>
+     <h2 className={props.class}>{props.title}</h2>
     )
   }
   
